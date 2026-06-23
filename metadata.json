@@ -1,0 +1,6 @@
+{
+  "name": "Industrial OS",
+  "description": "ERP industrial completo para gestão, inventário, processos, cronometragem e capacidade produtiva de fábrica de colchões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
